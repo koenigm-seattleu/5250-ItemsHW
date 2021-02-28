@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GetItems</string>
+    <string name="title_itemmodel_list">Items</string>
+    <string name="title_itemmodel_detail">ItemModel Detail</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="items">Items</string>
+    <string name="location">Location :</string>
+    <string name="damage">Damage :</string>
+    <string name="value">Value :</string>
+    <string name="mike_koenig">Mike Koenig</string>
+</resources>
